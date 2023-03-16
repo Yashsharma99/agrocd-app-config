@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: demoapp
-        image: nanajanashia/argocd-app:1.2
+        image: nikhilyadav1012/dotnet-argo-demo:1.0.1
         ports:
         - containerPort: 8080
